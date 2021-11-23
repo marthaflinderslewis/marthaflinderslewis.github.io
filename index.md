@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Hello! I am a Lecturer (US: Assistant Professor) in the Department of Engineering Mathematics at the University of Bristol. You can contact me at martha dot lewis at bristol dot ac dot uk
+Hello! I am a Lecturer (US: Assistant Professor) in the Department of Engineering Mathematics at the University of Bristol.
 
 Quick links: [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIAAAAAJ&hl=en); [DBLP](https://dblp.org/pid/133/2000.html)
 
