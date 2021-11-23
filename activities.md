@@ -1,7 +1,7 @@
 ---
 title: Activities
 layout: page
-permalink: /activities
+permalink: /activities/
 ---
 
 ## Invited talks
