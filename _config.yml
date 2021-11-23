@@ -8,20 +8,20 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Martha Lewis
   avatar: 
-  bio: "This is my academic website."
+  bio:
   email: martha.lewis@bristol.ac.uk
   # Do not include the @ symbol in your Twitter username
   twitter: marthaflinders
   linkedin: #username
   github: 
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-9951-9413
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: ZMC6TIAAAAAJ
   facebook: #username
   instagram: #username
   bing-verify:
@@ -42,7 +42,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
+highlight-color: '#008080'
 lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
