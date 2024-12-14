@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Hello! I am Assistant Professor of Neurosymbolic AI in the Institute of Logic, Langauge, and Computation, University of Amsterdam.
+Hello! I am Assistant Professor of Neurosymbolic AI in the Institute of Logic, Language, and Computation, University of Amsterdam.
 
 Quick links: [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIAAAAAJ&hl=en); [DBLP](https://dblp.org/pid/133/2000.html)
 
