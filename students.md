@@ -6,7 +6,7 @@ permalink: /students/
 
 ## Current PhD Students:
 - [Kairui Zhang](https://research-information.bris.ac.uk/en/persons/kairui-zhang) PhD Bristol 2024 - current, cosupervised with Dr Zahraa Abdallah
-- [Jasmine Owers](PhD Bristol 2023 - current, cosupervised with Dr Edwin Simpson. MSc Data Science, Bristol, 2021).
+- Jasmine Owers (PhD Bristol 2023 - current, cosupervised with Dr Edwin Simpson. MSc Data Science, Bristol, 2021).
 - [Beth Pearson](https://research-information.bris.ac.uk/en/persons/beth-a-pearson) PhD Bristol 2023 - current, cosupervised with Dr Mike Wray
 - [Xiaoyu Tong](https://www.linkedin.com/in/xiaoyu-tong-7a280b1a9/) (PhD UvA 2021 - current, co-supervised with Prof. Ekaterina Shutova)
 
