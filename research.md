@@ -7,6 +7,7 @@ permalink: /research/
 Please see my [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIAAAAAJ&hl=en) page for an up-to-date list of publications.
 
 ## Funding and awards
+- RIS Collaboration Grant, £5,000 to support international collaboration with University of Edinburgh
 - Veni Postdoctoral Fellowship, &euro;250,000 over 4 years, August 2017 - July 2021
 - Travel Grant, EPSRC Network+ on Human-Like Computing, £2,500 to support visit from UK collaborators
 - KNAW Conference Fund &euro;6,000 to support Applied Category Theory Lorentz Center Workshop May 2018
@@ -17,6 +18,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIA
 
 
 ## Edited volumes
+- [Proceedings of the Fifth Conference on Applied Category Theory](https://arxiv.org/abs/2307.15519)
 - [Proceedings of the 2021 Workshop on Semantic Spaces at the Intersection of NLP, Physics, and Cognitive Science](https://aclanthology.org/2021.semspace-1.0/)
 - [Journal of Cognitive Science Special Issue Parts 1 and 2: Semantic Spaces at the Intersection of NLP, Physics, and Cognitive Science](http://jcs.snu.ac.kr/jcs/index.php/issues/)
 - [Journal of Applied Logics Special Issue: Semantic Spaces at the Intersection of NLP, Physics, and Cognitive Science](https://collegepublications.co.uk/ifcolog/?00041)
