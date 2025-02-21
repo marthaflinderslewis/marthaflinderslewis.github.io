@@ -29,5 +29,6 @@ The compositional framework I work in has its roots in quantum theory, and there
 #### Evolutionary approaches
 A key aspect of human concept use is that concepts and words evolve over time. I have examined how shared concepts can emerge in a community of artificial agents, and the impact of [linguistic hedges](https://arxiv.org/abs/1601.06755) and [concept conjunction](https://arxiv.org/abs/1601.06738) on the resulting concepts.
 
-Work in progress: integrating a compositional vector-based model of meaning with an evolutionary model..... watch this space!
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YZcRNTkBQeE-gK72gE0QY3df3rLED-OHhDnjeO2Z6yE&cl=ffffff&w=a"></script>
 
