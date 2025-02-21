@@ -10,7 +10,7 @@ Quick links: [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIAA
 How are humans able to combine concepts to form new ones? Why do unexpected or 'emergent' attributes arise in these combinations? I use computational linguistics, conceptual spaces theory, quantum theory, and category theory to try and answer questions like these.
 
 ## Bio:
-Martha Lewis is Assitant Professor at the Institute of Logic, Language, and Computation, University of Amsterdam. She was previously a Lecturer in the School of Engineering Mathematics and Technology at Bristol University, and completed postdocs at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, funded by a Veni fellowship, and in the [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) in the Department of Computer Science, University of Oxford. She did her PhD at the University of Bristol, in the [Bristol Centre for Complexity Sciences](http://www.bristol.ac.uk/bccs/), and before that the [Evolutionary and Adaptive Systems (EASy) MSc](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex. Martha's interests are in compositional approaches to understanding language and reasoning, through multidisciplinary approaches.
+Martha Lewis is Assistant Professor at the Institute of Logic, Language, and Computation, University of Amsterdam. She was previously a Lecturer in the School of Engineering Mathematics and Technology at Bristol University, and completed postdocs at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, funded by a Veni fellowship, and in the [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) in the Department of Computer Science, University of Oxford. She did her PhD at the University of Bristol, in the [Bristol Centre for Complexity Sciences](http://www.bristol.ac.uk/bccs/), and before that the [Evolutionary and Adaptive Systems (EASy) MSc](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex. Martha's interests are in compositional approaches to understanding language and reasoning, through multidisciplinary approaches.
 
 Press coverage: [Science News](https://www.sciencenews.org/article/ai-large-language-model-understanding), [TechXplore](https://techxplore.com/news/2025-02-gpt.html), [Science Daily](https://www.sciencedaily.com/releases/2025/02/250221125814.htm)
 
@@ -29,6 +29,4 @@ The compositional framework I work in has its roots in quantum theory, and there
 #### Evolutionary approaches
 A key aspect of human concept use is that concepts and words evolve over time. I have examined how shared concepts can emerge in a community of artificial agents, and the impact of [linguistic hedges](https://arxiv.org/abs/1601.06755) and [concept conjunction](https://arxiv.org/abs/1601.06738) on the resulting concepts.
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YZcRNTkBQeE-gK72gE0QY3df3rLED-OHhDnjeO2Z6yE&cl=ffffff&w=a"></script>
 
