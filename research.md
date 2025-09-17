@@ -5,6 +5,9 @@ permalink: /research/
 ---
 ## Publications
 Please see my [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIAAAAAJ&hl=en) page for an up-to-date list of publications.
+## Preprints
+<a href="file.txt">Download File</a>
+
 
 ## Funding and awards
 - RIS Collaboration Grant, £5,000 to support international collaboration with University of Edinburgh
@@ -13,7 +16,6 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIA
 - KNAW Conference Fund &euro;6,000 to support Applied Category Theory Lorentz Center Workshop May 2018
 - Lorentz Center Applied Category Theory Workshop and School &euro;25,000, May 2018
 - EPSRC Doctoral Training Account Scholarship. Awarded by Bristol Centre for Complexity Sciences. 4 years scholarship including fees, stipend and travel allowance. October 2010.
-- Poster prize, Department of Informatics Poster Competition, University of Sussex, May 2010. 
 - Theobald Studdy Exhibitioner, awarded by Balliol College, Oxford 2001-2003.
 
 
