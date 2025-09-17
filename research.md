@@ -6,7 +6,7 @@ permalink: /research/
 ## Publications
 Please see my [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIAAAAAJ&hl=en) page for an up-to-date list of publications.
 ## Preprints
-<a href="marthaflinderslewis.github.io/files/RecentAdvancesAVLM.pdf">Recent Advances in Audio-Visual-Language Modelling</a>
+<a href="files/RecentAdvancesAVLM.pdf">Recent Advances in Audio-Visual-Language Modelling</a>
 
 
 ## Funding and awards
