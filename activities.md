@@ -5,6 +5,7 @@ permalink: /activities/
 ---
 
 ## Event organisation
+- [Workshop in Naturalistic Approaches to Artificial Intelligence, Mathematics of Intelligence Long Program](https://www.ipam.ucla.edu/programs/workshops/workshop-iii-naturalistic-approaches-to-artificial-intelligence/), UCLA Institute for Pure & Applied Mathematics, November 2024
 - [Semantic Spaces at the Intersection of NLP, Physics, and Cognitive Science](https://sites.google.com/view/semspace2021/home), co-located with IWCS, Groningen, NL and online, June 2021
 - [Semantic Spaces at the Intersection of NLP, Physics, and Cognitive Science](https://sites.google.com/view/semspace2020/home), online, August 2020
 - [Semantic Spaces at the Intersection of NLP, Physics, and Cognitive Science](https://sites.google.com/view/semspace2019/home), part of ESSLLI, Riga, Latvia, August 2019
