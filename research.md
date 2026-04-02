@@ -26,6 +26,16 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIA
 - [Electronic Proceedings in Theoretical Computer Science: Semantic Spaces at the Intersection of NLP, Physics, and Cognitive Science](http://eptcs.web.cse.unsw.edu.au/content.cgi?SLPCS2016)
 
 ## Invited talks
+- Compositional approaches to modelling language and concepts, Workshop on Naturalistic Approaches to AI, Institute for Pure and Applied Mathematics, UCLA, November 2024.
+- Analogical reasoning in large language models, Analogy 2024, Amsterdam, July 2024
+- Analogical reasoning in large language models, Bell Labs France (online), June 2024
+- Compositional approaches to modelling language and concepts, MIT CSAIL, March 2024
+- Compositional vector semantics for spiking neural networks, VSAONLINE, Online Speakers’ Corner on Vector Symbolic Architectures and Hyperdimensional Computing, February 2024
+- Compositional approaches in vector space models of meaning, Santa Fe Institute, Santa Fe, New
+Mexico, December 2022
+- Compositional approaches in vector space models of meaning, Concepts in Action, Learning, and
+Reasoning, Berlin, August 2022
+- Modelling Lexical Ambiguity with Density Matrices, QNLP, Oxford UK, May 2022
 - Compositionality in Conceptual Spaces, Workshop on New ideas in Cognitive Science, Research Center on Cognitive Sciences, Universidad de Talca, October 2021
 - Quantum Theory in Natural Language Processing, Tutorial at Conference on Quantum Physics and Logic, June 2021 [video](https://www.youtube.com/watch?v=89d7mz11JWA)
 - Building Density Matrices for Words from Text Corpora, QNLP at Quantum Week of Fun, September 2020 [video](https://www.youtube.com/watch?v=rt1k4KuCKSE)
