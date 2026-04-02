@@ -11,13 +11,10 @@ permalink: /students/
 - [Xiaoyu Tong](https://www.linkedin.com/in/xiaoyu-tong-7a280b1a9/) (PhD UvA 2021 - current, co-supervised with Prof. Ekaterina Shutova)
 
 ## Current MSc Students
-- [Bilal Boulbarss](https://www.linkedin.com/in/bilal-boulbarss-2059b4213/?originalSubdomain=nl) (MSc Data Science, Amsterdam, 2025)
 - Lili Bognar (MSc Data Science, Amsterdam, 2025)
-- Ananay Wahedra (MSc Data Science, Amsterdam, 2025)
-- Rens Roelen (MSc Data Science, Amsterdam, 2025)
-- Clio Feng (MSc AI, Amsterdam, 2025)
-- Henrietta Chen (MSc Logic, Amsterdam, 2025)
-- Philipp Hellwig (MSc Psychology, Amsterdam, 2025)
+- Shihui Li (MSc Logic, Amsterdam, 2026)
+- Mette Andersen(MSc Logic, Amsterdam, 2026)
+
 
 ## Past PhD Students
 - Zhijin Guo (PhD Engineering Maths, Bristol, 2021-2024)
@@ -25,6 +22,12 @@ permalink: /students/
 
 
 ## Past MSc Students
+- [Bilal Boulbarss](https://www.linkedin.com/in/bilal-boulbarss-2059b4213/?originalSubdomain=nl) (MSc Data Science, Amsterdam, 2025) [Visual reasoning](https://aclanthology.org/2025.starsem-1.9/).
+- Ananay Wahedra (MSc Data Science, Amsterdam, 2025) Analogy and mechanistic interpretability.
+- Rens Roelen (MSc Data Science, Amsterdam, 2025) Mechanistic Interpretability.
+- Clio Feng (MSc AI, Amsterdam, 2025) AI Safety.
+- Henrietta Chen (MSc Logic, Amsterdam, 2025) Hiearchical understanding in vision-language models
+- Philipp Hellwig (MSc Psychology, Amsterdam, 2025) Analogy and Mechanistic Interpretability
 - Changshuo Wang (MSc Engineering Maths, Bristol, 2022) Changshuo's research is in extending neural methods for building density matrices.
 - Qiming Chen (MSc Engineering Maths, Bristol, 2022) Qiming looks at modelling generic sentences with density matrices.
 - [Mike Nelhams](https://www.linkedin.com/in/michael-nelhams-91a077167/) (MEng Engineering Maths). Mike is looking at using density matrices on larger-scale entailment datasets.
