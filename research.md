@@ -7,7 +7,7 @@ permalink: /research/
 Please see my [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIAAAAAJ&hl=en) page for an up-to-date list of publications.
 
 ## Funding and awards
-- NIAS-Lorentz Theme Group Fellowship: [Neurosymbolic Models of Analogy] (https://nias.knaw.nl/fellow/martha-lewis/)
+- NIAS-Lorentz Theme Group Fellowship: [Neurosymbolic Models of Analogy](https://nias.knaw.nl/fellow/martha-lewis/)
 - RIS Collaboration Grant, £5,000 to support international collaboration with University of Edinburgh
 - Veni Postdoctoral Fellowship, &euro;250,000 over 4 years, August 2017 - July 2021
 - Travel Grant, EPSRC Network+ on Human-Like Computing, £2,500 to support visit from UK collaborators
