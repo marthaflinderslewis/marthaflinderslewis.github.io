@@ -7,9 +7,9 @@ Hello! I am Assistant Professor of Neurosymbolic AI in the Institute of Logic, L
 
 Quick links: [Google Scholar](https://scholar.google.com/citations?user=ZMC6TIAAAAAJ&hl=en); [DBLP](https://dblp.org/pid/133/2000.html)
 
-How are humans able to combine concepts to form new ones? Why do unexpected or 'emergent' attributes arise in these combinations? I use appraoches across multiple disciplines to answer questions like these.
+How are humans able to abstract from their experiences and understand new situations? How do we form novel concepts from what we already know? I use approaches across multiple disciplines to answer questions like these.
 
-## Third-person Bio:
+## Bio:
 Martha Lewis is Assistant Professor at the Institute of Logic, Language, and Computation, University of Amsterdam. She was previously a Lecturer in the School of Engineering Mathematics and Technology at Bristol University, and completed postdocs at the [ILLC](https://www.illc.uva.nl/) at the University of Amsterdam, funded by a Veni fellowship, and in the [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) in the Department of Computer Science, University of Oxford. She did her PhD at the University of Bristol, in the [Bristol Centre for Complexity Sciences](http://www.bristol.ac.uk/bccs/), and before that the [Evolutionary and Adaptive Systems (EASy) MSc](https://www.sussex.ac.uk/research/centres/ai-research-group/) at the University of Sussex. She is a member of [ELLIS](https://ellis.eu/) and a Fellow of the [Netherlands Institute for Advanced Study](https://nias.knaw.nl/fellow/martha-lewis/). Martha's interests are in compositional approaches to understanding language and reasoning, through multidisciplinary approaches.
 
 Press coverage: [Science News](https://www.sciencenews.org/article/ai-large-language-model-understanding), [IEEE Spectrum](https://spectrum.ieee.org/chain-of-thought-prompting), [Communications of the ACM](https://cacm.acm.org/opinion/does-ai-prediction-scale-to-decision-making/), [TechXplore](https://techxplore.com/news/2025-02-gpt.html)
