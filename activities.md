@@ -13,6 +13,9 @@ permalink: /activities/
 - [Semantic Spaces at the Intersection of NLP, Physics, and Cognitive Science](https://sites.google.com/site/semspworkshop/), co-located with Quantum Physics and Logic, Glasgow, Scotland, July 2016
 
 ## Academic service
-- Editor: Compositionality Journal, Cognitive Processing.
-- Journal Reviewer: Artificial Intelligence, Cognitive Science, Journal of Logic, Language, and Information, Journal of Natural Language Engineering, Adaptive Behavior, Mind and Matter, Cognitive Processing, Journal of Cognitive Science.
-- Conference Reviewer: ACL, NAACL, EMNLP, IJCAI, AAAI, EACL, CoNLL, IWCS, StarSem, Quantum Physics and Logic, Applied Category Theory, Artificial Intelligence and Cognition, Symposium on Compositional Structures, Quantum Interaction.
+- Editor: Transaction of Machine Learning Research, Compositionality Journal, Cognitive Processing.
+- Journal Reviewer: Artificial Intelligence, Cognitive Science, Nature Machine Intelligence, Journal of Logic, Language, and Information, Journal of Natural Language Engineering, Adaptive Behavior, Mind and Matter, Cognitive Processing, Journal of Cognitive Science.
+- Conferences and Summer Schools:
+  - Senior Area Chair: ACL 2025, 2026, ACL Rolling Review 2026, LREC 2026
+  - Area Chair: EMNLP 2025, AACL 2025 (Outstanding AC award), NAACL 2025, CoNLL 2026, ESSLLI 2025
+  - Reviewer: (multiple years) ACL, NAACL, EMNLP, IJCAI, AAAI, EACL, CoNLL, IWCS, StarSem, Quantum Physics and Logic, Applied Category Theory
